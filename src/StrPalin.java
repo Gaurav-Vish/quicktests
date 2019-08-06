@@ -21,7 +21,7 @@ public class StrPalin {
                 //System.out.println(odd+" ");
             }
         }
-        if (odd%2==0)
+        if (odd>=2==0)
             System.out.println("Palindrome not possible");
         else
             System.out.println("Palindrome possible");
